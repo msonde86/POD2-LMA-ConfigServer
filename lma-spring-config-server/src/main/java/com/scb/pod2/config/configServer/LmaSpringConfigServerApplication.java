@@ -6,6 +6,7 @@ import org.springframework.cloud.config.server.EnableConfigServer;
 
 import lombok.Generated;
 
+
 @SpringBootApplication
 @EnableConfigServer
 public class LmaSpringConfigServerApplication {
